@@ -1,0 +1,7 @@
+*.swp
+~*
+*~
+# Log files so process can be restarted
+# We do not want these getting pushed to git
+# ignore all files
+*

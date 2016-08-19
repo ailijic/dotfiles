@@ -1,0 +1,7 @@
+*.swp
+~*
+*~
+# Ignore all files
+# originals will be put in this directory
+# we do not want them to get pushed to git
+*
